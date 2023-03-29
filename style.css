@@ -1,0 +1,24 @@
+img{
+height:120px;
+left:120px;
+}
+footer {
+    text-align: center;
+    color: white;
+    background-color: #1A1A1A;
+    width: 100%;
+    height: 200px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+body{
+    background-image:url(https://www.dondeir.com/wp-content/uploads/2017/06/pueblos-para-ver-las-estrellas-en-mexico-08.jpg);
+
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-style: oblique;
+}
